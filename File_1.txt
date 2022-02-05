@@ -7,3 +7,5 @@ Besides that multiple people can work and contribute!
 Creating new versions and keeping track over modifications that happened makes the whole development really simpler.
 
 Now I'm just typing here because I want to have a new version that is not yet on my prod branch
+
+We keep working on this version
